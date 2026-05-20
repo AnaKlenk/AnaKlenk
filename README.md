@@ -1,4 +1,5 @@
-# Dev Jr em formação • Estudante de ADS • São José dos Pinhais – PR
+# Ana Júlia Bernardino Klenk
+### Dev Jr em formação • Estudante de ADS • São José dos Pinhais – PR
 
 ---
 
@@ -8,60 +9,84 @@ Me chamo **Ana Júlia**, sou estudante de **Análise e Desenvolvimento de Sistem
 
 Fora do mundo dos códigos, exercito minha atenção e paciência através do crochê, criando desde peças de vestuário até amigurumis. Acredito que a precisão é a mesma que aplico na organização e no detalhamento do meu desenvolvimento técnico.
 
-**Cursando Análise e Desenvolvimento de Sistemas** na Univerdidade Positivo e buscando oportunidades como **Dev Jr** ou **Estagiária em Desenvolvimento de Sistemas**.
+Buscando oportunidades como **Dev Jr** ou **Estagiária em Desenvolvimento de Sistemas**, com interesse na área de **dados** e **cybersegurança**.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Back-end & Desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" />
+</p>
 
 ### Web & Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+</p>
+
+### Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" title="Oracle" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+</p>
+
+### Ferramentas & Versionamento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+</p>
 
 ### Pacote Office
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+<p align="left">
+  <a href="#"><img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" alt="Word" title="Microsoft Word" width="48" height="48"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" title="Microsoft PowerPoint" width="48" height="48"/></a>
+</p>
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaklenk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anajuliabernardinoklenk@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/anaklenk" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn" width="48" height="48"/>
+  </a>
+  <a href="mailto:anajuliabernardinoklenk@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" title="Gmail" width="48" height="48"/>
+  </a>
+</p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🛒 E-commerce (Em desenvolvimento)
-Plataforma web para resolução de problema real no varejo online
+### 🛒 E-commerce *(Em desenvolvimento)*
+Plataforma web para resolução de problema real no varejo online.
 - **Tecnologias:** PHP, HTML5, CSS3
 - **Status:** Em desenvolvimento
 
-### 🌱 Projeto de Extensão - Sustentabilidade Escolar
-Participação em grupo com foco em soluções ambientais para escolas públicas
+### 🌱 Projeto de Extensão — Sustentabilidade Escolar
+Participação em grupo acadêmico focado em soluções ambientais e melhorias para escolas públicas.
 - **Instituição:** Universidade Positivo
-- **Ano:** 2025
+- **Ano:** 2026
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaklenk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaklenk&layout=compact&theme=radical)
-
----
-
-⭐ **Sempre em busca de novos conhecimentos e oportunidades para crescer na área de desenvolvimento!**
+<p align="center">
+  <b>Sempre em busca de novos conhecimentos e oportunidades para crescer na área de desenvolvimento!</b>
+</p>
